@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NG-CustomWare-Business-card/static/css/main.1bfecf02.css",
+    "main.js": "/NG-CustomWare-Business-card/static/js/main.3ddb75e2.js",
+    "static/media/logo.jpg": "/NG-CustomWare-Business-card/static/media/logo.45ee1040421243dd5cbe.jpg",
+    "static/media/bg.jpg": "/NG-CustomWare-Business-card/static/media/bg.92f3b9043cb9e88858a1.jpg",
+    "index.html": "/NG-CustomWare-Business-card/index.html",
+    "main.1bfecf02.css.map": "/NG-CustomWare-Business-card/static/css/main.1bfecf02.css.map",
+    "main.3ddb75e2.js.map": "/NG-CustomWare-Business-card/static/js/main.3ddb75e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bfecf02.css",
+    "static/js/main.3ddb75e2.js"
+  ]
+}
